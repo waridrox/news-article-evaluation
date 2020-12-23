@@ -1,0 +1,20 @@
+header {
+    padding: 60px;
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+//phone
+@media only screen and (max-width: 715px) {
+}
+
+// tablet
+@media only screen and (max-width: 990px) {
+}
+
+// desktop
+@media only screen and (min-width: 901px) {
+}
